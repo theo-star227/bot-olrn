@@ -1,1 +1,5 @@
-token.txt
+{
+  "tokens": [
+    "8996782751:AAGgfVr6QOuzB2pvl3ZinOlJ-OPApPnUO9U"
+  ]
+}
